@@ -393,6 +393,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "tru1/tru1-Prefix.pch";
 				INFOPLIST_FILE = "tru1/tru1-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -406,6 +407,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "tru1/tru1-Prefix.pch";
 				INFOPLIST_FILE = "tru1/tru1-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -470,6 +472,7 @@
 				76105E231A81605A00B9007D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		76105E241A81605A00B9007D /* Build configuration list for PBXNativeTarget "tru1Tests" */ = {
 			isa = XCConfigurationList;
@@ -478,6 +481,7 @@
 				76105E261A81605A00B9007D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
